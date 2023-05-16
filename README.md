@@ -11,7 +11,7 @@ This web app is designed to help users find breweries in a particular city.  The
 
 
 
-[Deployment](https://shawnbradyrobinson.github.io/brewery-finder/)
+[Deployment](https://johndallasmoore.github.io/BrewFinder/)
 
 ## Installation
 N/a
